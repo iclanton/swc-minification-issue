@@ -1,0 +1,14 @@
+{
+  "name": "swc-minify-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/core": "^1.11.24"
+  }
+}
